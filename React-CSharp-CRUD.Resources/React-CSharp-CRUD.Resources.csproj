@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>React_CSharp_CRUD.Resources</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Infraestructure\IoC\" />
+    <Folder Include="Mapper\" />
+    <Folder Include="Providers\" />
+    <Folder Include="Services\" />
+    <Folder Include="RequestBodies\" />
+  </ItemGroup>
+
+</Project>

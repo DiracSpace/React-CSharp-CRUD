@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>React_CSharp_CRUD.Persistence</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CQRS\" />
+    <Folder Include="Infraestructure\IoC\" />
+    <Folder Include="Migrations\" />
+    <Folder Include="Scripts\" />
+  </ItemGroup>
+
+</Project>
